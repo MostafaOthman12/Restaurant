@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Collections.Generic;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Restaurant.Controllers
 {
@@ -6,6 +7,7 @@ namespace Restaurant.Controllers
     {
         public IActionResult Index()
         {
+            var orders = new List<string>();
             return View();
         }
     }
