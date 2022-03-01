@@ -12,6 +12,7 @@ namespace Restaurant.Controllers
                 "BigMac",
                 "Big Zacks"
             };
+
             return View();
         }
     }
