@@ -7,7 +7,8 @@ namespace Restaurant.Controllers
     {
         public IActionResult Index()
         {
-            var order = new List<string>();
+            var orders = new List<string>();
+
             return View();
         }
     }
