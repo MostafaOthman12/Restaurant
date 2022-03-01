@@ -7,7 +7,11 @@ namespace Restaurant.Controllers
     {
         public IActionResult Index()
         {
-            var orders = new List<string>();
+            var orders = new List<string>
+            {
+                "BigMac",
+                "Big Zacks"
+            };
             return View();
         }
     }
