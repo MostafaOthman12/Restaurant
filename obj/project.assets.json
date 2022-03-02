@@ -2265,19 +2265,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mosta\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL G3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mosta\\Desktop\\Restaurant\\ResturantApp.csproj",
+      "projectUniqueName": "D:\\ITI3Months\\GradRestarauntApp\\Restaurant\\ResturantApp.csproj",
       "projectName": "ResturantApp",
-      "projectPath": "C:\\Users\\Mosta\\Desktop\\Restaurant\\ResturantApp.csproj",
-      "packagesPath": "C:\\Users\\Mosta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mosta\\Desktop\\Restaurant\\obj\\",
+      "projectPath": "D:\\ITI3Months\\GradRestarauntApp\\Restaurant\\ResturantApp.csproj",
+      "packagesPath": "C:\\Users\\DELL G3\\.nuget\\packages\\",
+      "outputPath": "D:\\ITI3Months\\GradRestarauntApp\\Restaurant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL G3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2342,7 +2342,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
