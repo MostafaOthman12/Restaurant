@@ -2265,19 +2265,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\Mosta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\MVC\\ResturantApp.csproj",
+      "projectUniqueName": "C:\\Users\\Mosta\\Desktop\\Restaurant\\ResturantApp.csproj",
       "projectName": "ResturantApp",
-      "projectPath": "C:\\Users\\HP\\Desktop\\MVC\\ResturantApp.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\MVC\\obj\\",
+      "projectPath": "C:\\Users\\Mosta\\Desktop\\Restaurant\\ResturantApp.csproj",
+      "packagesPath": "C:\\Users\\Mosta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mosta\\Desktop\\Restaurant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
